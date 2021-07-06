@@ -1,0 +1,72 @@
+.opera{
+    position: relative;
+    top:50px;
+    bottom:20;
+    right:0;
+    left:420px;
+	width: 400px;
+	background:  ;
+	padding: 30px;
+	margin: 100px;
+	margin-top: 10px;
+	border: 5px solid green;
+	font-family: 'times new roman';
+	color: black;
+}
+
+.controls {
+	width: 95%;
+	background: #719682;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 3px solid green;
+	font-family: 'times new roman';
+	font-size: 15px;
+    
+}
+.boton{
+    position: relative;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    left:85px;
+    width: 100px;
+	background: green;
+	border: none;
+	padding: 5px;
+	color: black;
+	margin: 5px;
+	font-size: 14px;  
+    }
+
+.caja{
+    position: relative;
+    top:150px;
+    bottom:0px;
+    right:0px;
+    left:5px;
+    background-color: yellow;
+    border: 3px solid green;
+}
+.cali{
+     border-color: green;
+     background: yellow;
+    font-family: 'times new roman';
+
+}
+.newcaja{
+    position: relative;
+    top:50px;
+    bottom:0;
+    right:0;
+    left:420px;
+	width: 400px;
+	background: #0CB356;
+	padding: 30px;
+	margin: 100px;
+	margin-top: 10px;
+	border: 5px solid black;
+	font-family: 'calibri';
+	color: white;
+}
