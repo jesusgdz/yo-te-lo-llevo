@@ -1,0 +1,47 @@
+.caj1{
+    position: relative;
+    top:50px;
+    bottom:20;
+    right:0;
+    left:420px;
+	width: 400px;
+	background:  ;
+	padding: 30px;
+	margin: 100px;
+	margin-top: 10px;
+	border: 5px solid rgb(235, 130, 11);
+	font-family: 'times new roman';
+	color: black;
+}
+
+
+.boton{
+    position: relative;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    left:85px;
+    width: 100px;
+	background:  rgb(235, 130, 11);
+	border: none;
+	padding: 5px;
+	color: black;
+	margin: 5px;
+	font-size: 14px;  
+    }
+
+.caj3{
+    position: relative;
+    top:150px;
+    bottom:0px;
+    right:0px;
+    left:5px;
+    background-color: rgb(235, 130, 11);
+    border: 3px solid rgb(235, 130, 11);
+}
+.caj2{
+     border-color: solid rgb(235, 130, 11);
+     background: rgb(235, 130, 11);
+    font-family: 'times new roman';
+
+}
